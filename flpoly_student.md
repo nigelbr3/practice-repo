@@ -4,21 +4,21 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to date
 
-- Course 2
+- intro to python
 
-- Course 3
+- calc 1
 
-- Course 4
+- intro to cloud
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- My fast car
 
-- Thing 2
+- my new computer
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
